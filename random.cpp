@@ -15,6 +15,7 @@ int main()
 	hello();
 	
 	cout << "\nOutput text\n"; 
+	//reattempting to comment to ensure program functions
 	
 	return 0;
 	
