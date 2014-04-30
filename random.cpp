@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "function.h"
 using namespace std;
 
 int main()
@@ -8,7 +9,10 @@ int main()
 	
 	cout << "Hello, what is your name human?"; 
 	cin >> name;
-	cout << "\nGreetings " << name << endl;
+	cout << "\nGreetings " << name << "\n\n";
+	
+	//#4 - Call function from header file:
+	hello();
 	
 	return 0;
 	
