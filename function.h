@@ -6,7 +6,8 @@ using namespace std;
 
 
 void hello() {
-	cout "Hey there!";
+	cout << "Hey there!";
+	//user forgot to include insertion, error handlede
 }
 
 
