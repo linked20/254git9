@@ -14,7 +14,7 @@ int main()
 	//#4 - Call function from header file:
 	hello();
 	
-	cout >> "/nOutput text/n"; 
+	cout << "\nOutput text\n"; 
 	
 	return 0;
 	
