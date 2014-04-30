@@ -1,0 +1,54 @@
+commit 18ccb508dc46dfa3f47081f96a32288900843dd4
+Author: linked20 <edvill26@gmail.com>
+Date:   Wed Apr 30 10:42:56 2014 -0700
+
+    log file
+
+commit ad751f6e8f509edef399a2fcd5746f8741bf6e38
+Author: Lazerbeak <pyrogyro37@yahoo.com>
+Date:   Wed Apr 30 10:33:12 2014 -0700
+
+    ensured program worked
+
+commit 8f3917daf4b2b96b52d905bd66f1cbc909917340
+Author: Lazerbeak <pyrogyro37@yahoo.com>
+Date:   Wed Apr 30 10:30:37 2014 -0700
+
+    error handled insertion, comment
+
+commit 83e1bfeb7a5bc5ddd4caf338d0a30795ef81a813
+Author: unknown <phen11@CS300-1D.acad.fullerton.edu>
+Date:   Wed Apr 30 10:26:34 2014 -0700
+
+    Update random.cpp with output text
+
+commit d18ad75f843b4c4de3365e6f722d9a131bef63c9
+Author: unknown <phen11@CS300-1D.acad.fullerton.edu>
+Date:   Wed Apr 30 10:24:07 2014 -0700
+
+    Update random.cpp to call hello() from header file
+
+commit a0400be4cb26ad8ef7fe7c1f55816571ae0708ef
+Author: unknown <phen11@CS300-1D.acad.fullerton.edu>
+Date:   Wed Apr 30 10:20:52 2014 -0700
+
+    Header file with function
+
+commit cd8dbdbce3df85d9f2890e79c830281f26f24ea5
+Merge: 456fca8 48fc570
+Author: linked20 <edvill26@gmail.com>
+Date:   Wed Apr 30 09:44:27 2014 -0700
+
+    Merge branch 'master' of https://github.com/linked20/254git9
+
+commit 456fca85ea8cdc9ef26b5072b6a0306b2c964fae
+Author: linked20 <edvill26@gmail.com>
+Date:   Wed Apr 30 09:42:19 2014 -0700
+
+    added a cpp file
+
+commit 48fc5707ee06302698a950261f740fcf3e7d27c3
+Author: Lazerbeak <pyrogyro37@yahoo.com>
+Date:   Wed Apr 30 09:25:16 2014 -0700
+
+    first commit
